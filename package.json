@@ -1,0 +1,15 @@
+{
+    "name": "the-role-of-motivational-speakers-in-seminars-strategies-for-inspiring-and-energizing-attendees-during-seminars",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "honkit": "^4.0.7"
+    }
+}
