@@ -1,5 +1,4 @@
-Chapter 8: Measuring and Evaluating Seminar Effectiveness: Establishing Key Performance Indicators (KPIs)
-=========================================================================================================
+# Establishing Key Performance Indicators (KPIs)
 
 Establishing key performance indicators (KPIs) is critical for measuring the effectiveness of seminar presentations and identifying areas for improvement. In this chapter, we will discuss techniques for establishing KPIs.
 

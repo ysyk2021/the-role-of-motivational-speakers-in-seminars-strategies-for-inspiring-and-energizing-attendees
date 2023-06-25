@@ -1,5 +1,4 @@
-Chapter 7: Providing Opportunities for Reflection and Action: Providing Resources and Support for Continued Learning
-====================================================================================================================
+# Providing Resources and Support for Continued Learning
 
 Providing attendees with opportunities for reflection and action is essential for ensuring that they can continue to learn and grow after the seminar is over. In this chapter, we will discuss how motivational speakers can provide resources and support for continued learning.
 

@@ -1,5 +1,4 @@
-Chapter 7: Providing Opportunities for Reflection and Action: Techniques for Providing Opportunities for Reflection and Action
-==============================================================================================================================
+# Techniques for Providing Opportunities for Reflection and Action
 
 Providing opportunities for reflection and action is critical for promoting positive behavior change among attendees during seminars. In this chapter, we will discuss techniques for providing opportunities for reflection and action.
 

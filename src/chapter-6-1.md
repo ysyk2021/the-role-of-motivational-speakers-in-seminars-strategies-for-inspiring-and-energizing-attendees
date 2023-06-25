@@ -1,5 +1,4 @@
-Chapter 6: Using Storytelling Techniques: Techniques for Using Storytelling Techniques
-======================================================================================
+# Techniques for Using Storytelling Techniques
 
 In this chapter, we will explore how to use storytelling techniques to inspire and energize attendees during seminars.
 

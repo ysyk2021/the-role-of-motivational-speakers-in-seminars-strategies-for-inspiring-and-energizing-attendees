@@ -1,5 +1,4 @@
-Chapter 7: Providing Opportunities for Reflection and Action: Encouraging Attendees to Apply Concepts Learned
-=============================================================================================================
+# Encouraging Attendees to Apply Concepts Learned
 
 Providing opportunities for reflection and action is critical for promoting positive behavior change among attendees during seminars. In this chapter, we will discuss techniques for encouraging attendees to apply concepts learned.
 

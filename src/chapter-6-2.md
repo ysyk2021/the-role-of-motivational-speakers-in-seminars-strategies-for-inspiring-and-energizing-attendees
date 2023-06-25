@@ -1,5 +1,4 @@
-Chapter 6: Using Storytelling Techniques: Identifying Key Elements of Effective Storytelling
-============================================================================================
+# Identifying Key Elements of Effective Storytelling
 
 Storytelling is a powerful tool for inspiring and energizing attendees during seminars. In this chapter, we will discuss the key elements of effective storytelling.
 
