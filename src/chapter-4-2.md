@@ -1,4 +1,4 @@
-Chapter: Establishing Clear Objectives and Priorities
+Establishing Clear Objectives and Priorities
 =====================================================
 
 Introduction

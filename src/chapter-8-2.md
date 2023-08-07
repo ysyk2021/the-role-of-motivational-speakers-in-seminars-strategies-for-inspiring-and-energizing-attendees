@@ -1,4 +1,4 @@
-Chapter: Establishing Key Performance Indicators (KPIs)
+Establishing Key Performance Indicators (KPIs)
 =======================================================
 
 Introduction

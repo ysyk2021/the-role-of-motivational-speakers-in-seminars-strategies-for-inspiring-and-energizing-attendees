@@ -1,4 +1,4 @@
-Chapter: Recognizing the Impact of Negative Thinking
+Recognizing the Impact of Negative Thinking
 ====================================================
 
 Negative thinking can have a profound impact on our lives, affecting our mental and emotional well-being. In this chapter, we will delve into the significance of recognizing negative thinking patterns and understanding their consequences. By doing so, we can begin to cultivate a positive mindset and embrace abundance in our lives.
@@ -40,7 +40,7 @@ As we begin to recognize the impact of negative thinking and actively work towar
 
 In conclusion, recognizing the impact of negative thinking is the first step towards cultivating a positive mindset and embracing abundance. By identifying negative thinking patterns, understanding their consequences, and actively practicing positive habits, we can create a life filled with happiness, success, and fulfillment.
 
-Chapter: Techniques for Using Storytelling Techniques
+Techniques for Using Storytelling Techniques
 =====================================================
 
 Storytelling is a powerful tool used by motivational speakers to inspire and energize attendees during seminars. In this chapter, we will explore various techniques that can be employed to effectively utilize storytelling in seminars. By mastering these techniques, motivational speakers can create an engaging and impactful experience for their audience.
