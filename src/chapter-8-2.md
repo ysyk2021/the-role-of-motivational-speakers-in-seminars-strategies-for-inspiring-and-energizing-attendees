@@ -1,8 +1,7 @@
 Establishing Key Performance Indicators (KPIs)
 =======================================================
 
-Introduction
-------------
+
 
 In order to measure the effectiveness and success of seminars, establishing Key Performance Indicators (KPIs) is crucial. KPIs provide a measurable way to assess whether the objectives of the seminar have been met and to gauge the impact it has had on the attendees. This chapter will explore the importance of KPIs in evaluating the performance of motivational speakers in seminars and strategies for establishing effective KPIs.
 
