@@ -1,5 +1,3 @@
-Encouraging Attendees to Apply Concepts Learned
-==========================================================
 
 In this chapter, we will explore effective strategies for encouraging seminar attendees to apply the concepts they have learned. As a motivational speaker, your role goes beyond simply delivering inspiring speeches; it is equally important to ensure that participants take action and implement the knowledge gained during the seminar. By employing the strategies discussed in this chapter, you can energize and motivate attendees to successfully apply the concepts they've learned.
 

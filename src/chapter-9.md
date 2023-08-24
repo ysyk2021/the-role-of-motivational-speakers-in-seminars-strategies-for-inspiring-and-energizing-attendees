@@ -1,5 +1,3 @@
-Chapter 9: Sustaining Seminar Presentation Efforts
-==================================================
 
 Sustaining seminar presentation efforts is critical for ensuring that motivational speakers remain effective and relevant over time. In this chapter, we will discuss techniques for sustaining seminar presentation efforts.
 

@@ -1,5 +1,3 @@
-Techniques for Understanding the Psychology of Motivation
-==================================================================
 
 Motivation plays a crucial role in driving individuals towards achieving their goals and aspirations. As a motivational speaker, understanding the psychology of motivation is essential to effectively inspire and energize attendees during seminars. In this chapter, we will explore various techniques that can help you gain a deeper understanding of the psychology of motivation.
 

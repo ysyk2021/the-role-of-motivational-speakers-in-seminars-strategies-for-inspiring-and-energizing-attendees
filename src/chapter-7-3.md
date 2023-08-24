@@ -1,4 +1,3 @@
-# Providing Resources and Support for Continued Learning
 
 In this chapter, we will explore the importance of providing resources and support for continued learning after motivational seminars. Motivational speakers have a responsibility to empower attendees not only during the seminar but also in their ongoing pursuit of personal and professional growth. By offering valuable resources and establishing a support system, speakers can ensure that attendees have the tools and guidance they need to sustain their motivation and apply what they've learned. Let's delve into the strategies for providing resources and support for continued learning.
 

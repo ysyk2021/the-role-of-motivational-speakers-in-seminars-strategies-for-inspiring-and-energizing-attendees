@@ -1,5 +1,3 @@
-Techniques for Creating a Positive Presentation Environment
-====================================================================
 
 In this chapter, we will explore various techniques that motivational speakers can employ to create a positive presentation environment during seminars. By implementing these strategies, speakers can inspire and energize attendees, leaving a lasting impact on their personal and professional lives.
 

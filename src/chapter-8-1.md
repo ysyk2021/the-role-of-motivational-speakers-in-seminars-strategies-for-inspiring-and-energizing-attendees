@@ -1,5 +1,3 @@
-Techniques for Measuring and Evaluating Seminar Effectiveness
-========================================================================
 
 In this chapter, we will explore various techniques for measuring and evaluating the effectiveness of seminars. Understanding how to assess the impact of a seminar is crucial for event organizers and motivational speakers alike. By utilizing effective evaluation methods, we can gain valuable insights into the success of a seminar and identify areas for improvement. This chapter will discuss several key techniques that can be employed to evaluate seminar effectiveness.
 

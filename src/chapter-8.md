@@ -1,5 +1,3 @@
-Chapter 8: Measuring and Evaluating Seminar Effectiveness
-=========================================================
 
 Measuring and evaluating seminar effectiveness is essential for ensuring that attendees leave feeling inspired and energized. In this chapter, we will discuss techniques for measuring and evaluating seminar effectiveness, establishing key performance indicators (KPIs), and analyzing results to make improvements.
 

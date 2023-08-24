@@ -1,5 +1,3 @@
-Identifying Key Elements that Affect Motivation
-========================================================
 
 Motivation plays a vital role in seminars, as it drives attendees to actively participate and engage with the content being presented. Understanding the key elements that affect motivation is essential for motivational speakers to inspire and energize their audience effectively. In this chapter, we will explore some of these crucial elements and examine how they can impact attendees' motivation levels.
 

@@ -1,5 +1,3 @@
-Chapter 6: Using Storytelling Techniques
-========================================
 
 Storytelling is a powerful tool for inspiring and energizing attendees during seminars. In this chapter, we will discuss techniques for using storytelling to enhance seminar presentations.
 
